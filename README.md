@@ -99,7 +99,7 @@
 
 ---
 
-### 🤖 IoT & Embedded
+### 🤖 IoT 
 - ESP32  
 - Raspberry Pi  
 - MQTT Protocol  
@@ -144,3 +144,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </p>
+
