@@ -126,14 +126,14 @@
 
 <p align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak5556&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kannancsksanthish&theme=radical" />
 </p>
 
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak5556&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kannancsksanthosh&theme=react-dark" />
 </p>
 
 ---
@@ -142,4 +142,5 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
 </p>
